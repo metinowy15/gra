@@ -1,0 +1,36 @@
+﻿body
+{
+}
+#Plansza{
+margin:0 auto;
+width:700px;
+height:700px;
+background-color:cornflowerblue;
+
+}
+.przycisk{
+
+
+}
+.kolko{
+    width:60px;
+    height:60px;
+    border-radius:30px;
+    background-color:blue;
+
+    position:absolute;
+    top:330px;
+    left:550px;
+
+
+
+}
+.dziurka{
+
+    background-color:black;
+    border:4px solid grey;
+    width:30px;
+    height:60px;
+    border-radius:13px;
+    position:relative;
+}
